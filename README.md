@@ -1,4 +1,4 @@
-### Olá, eu sou o Tiago Rodrigues
+### Olá, eu sou o Tiago
 
 Gits about me:
 
