@@ -2,12 +2,10 @@
 
 Gits about me:
 
-- 🎤 I am a Fullstack student at the moment.
-- 🛸 Learning everyday, currently learning JAVA and React.
-- 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 📫 How to reach me: Você pode me contatar [Clicando aqui!](https://www.linkedin.com/in/tiago450/) ou pelo meu email: rtiago450@gmail.com
-- 🧗 I try to: Go beyond and push the bounds.
-- ⚡ Fun fact: I'm passionate at the moment about reading books.
+- 🎤 Eu sou um estudante FullStack no momento.
+- 🛸 Aprendendo todo dia, atualmente estudando JAVA e JavaScript.
+- 🌋 Eu estou sempre procurando por desafios..
+- 📫 Como entrar em contato comigo: Você pode me contatar [Clicando aqui!](https://www.linkedin.com/in/tiago450/).
 
  <div>
   <a href="https://github.com/rtiago45">
