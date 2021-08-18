@@ -1,6 +1,6 @@
 ### Olá, eu sou o Tiago
 
-Gits about me:
+Fatos sobre mim:
 
 - 🎤 Eu sou um estudante FullStack no momento.
 - 🛸 Aprendendo todo dia, atualmente estudando JAVA e JavaScript.
