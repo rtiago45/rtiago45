@@ -3,7 +3,7 @@
 Fatos sobre mim:
 
 - 🎤 Eu sou um estudante FullStack no momento.
-- 🛸 Aprendendo todo dia, atualmente estudando JAVA e JavaScript.
+- 🛸 Aprendendo todo dia, atualmente estudando JAVA e React.
 - 🌋 Eu estou sempre procurando por desafios..
 - 📫 Como entrar em contato comigo: Você pode me contatar [Clicando aqui!](https://www.linkedin.com/in/tiago450/).
 
