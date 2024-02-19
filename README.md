@@ -2,8 +2,8 @@
 
 Fatos sobre mim:
 
-- 🎤 Eu sou um estudante FullStack no momento.
-- 🛸 Atualmente trabalhando com JAVA e SQL.
+- 🎤 Eu sou um desenvolvedor FullStack no momento.
+- 🛸 Atualmente trabalhando com JAVA e Angular.
 - 🌋 Eu estou sempre procurando por desafios.
 - 📫 Como entrar em contato comigo: Você pode me contatar [Clicando aqui!](https://www.linkedin.com/in/tiago450/).
 
