@@ -1,5 +1,5 @@
 #  About Me:
-Hello, I am Tiago<br><br>Facts about me:<br><br>🤝 I am a Software Engineer.<br>🔭 My main stacks are JAVA, Spring, Quarkus, SQL, and Cloud Computing (AWS and GCP).<br>👯 I am always looking for challenges.<br>🌱 I am currently learning about Reactive Programming.<br>📫 How to contact me: You can contact me by ![clicking here!](https://www.linkedin.com/in/tiago450/)<br><br>
+Hello, I am Tiago<br><br>Facts about me:<br><br>🤝 I am a Software Engineer.<br>🔭 My main stacks are JAVA, Spring, Quarkus, SQL, and Cloud Computing (AWS and GCP).<br>👯 I am always looking for challenges.<br>🌱 I am currently learning about Reactive Programming.<br>
 
 
 ## 🌐 Socials:
