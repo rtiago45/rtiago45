@@ -25,11 +25,6 @@ Hello, I am Tiago<br><br>Facts about me:<br><br>🤝 I am a Software Engineer.<b
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
- <div align = "center">
-  <a href="https://github.com/rtiago45">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtiago45&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
 
 
 ![Snake animation](https://github.com/rtiago45/rtiago45/blob/output/github-contribution-grid-snake.svg)
